@@ -71,6 +71,6 @@ app.run()
 print(
     f"[{BOT_USERNAME}] Black Pink Logo Maker Is Starting. | Aasf • Cyber • King • Project | Licensed Under GPLv3."
 )
-print(f"[{BOT_USERNAME}] Project Maintained By: github.com/AASFCYBERKING (t.me/AASF_CYBERKING)")
+print(f"[{BOT_USERNAME}] Project Maintained By: github.com/AasfCyberKing (t.me/Aasf_CyberKing)")
 
 print(f"[{BOT_USERNAME}] Is Alive")
