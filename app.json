@@ -1,0 +1,35 @@
+{
+    "name": "Black-Pink-Logo-Maker",
+    "description": "A Telegram Bot That Can Convert Text Into BlackPink's Logo Made With Pyrogram Using Python ",
+    "logo": "uwu",
+    "keywords": [
+      "telegram",
+      "bot",
+      "pil",
+      "logo",
+      "aasf",
+      "team",
+      "pyrogram"
+   ],
+
+    "repository": "https://github.com/Team-Aasf/Black-Pink-Logo-Maker",
+
+    "env": {
+      "TOKEN": {
+         "description": "Your bot token. Get from @BotFather",
+         "required": true,
+         "value": ""
+        },
+      "API_ID": {
+         "description": "Get API_ID from my.telegram.org",
+         "required": true,
+         "value": ""
+        },
+      "API_HASH": {
+         "description": "Get API_HASH from my.telegram.org",
+         "required": true,
+         "value": ""
+        }
+      
+     }
+}
