@@ -5,7 +5,7 @@
 
 [![forthebadge made-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://telegram.me/AASF_CYBERKING)
 
-## Available on Telegram [@BlinkLogoBot](https://t.me/BlinkLogoBot)
+## Available on Telegram [@BlinkLogoBot](https://telegram.me/BlinkLogoBot)
 ## ✨ Easy To Deploy ✨
 The Easiest Way To Deploy This Bot
 
